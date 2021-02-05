@@ -1,0 +1,4 @@
+Najmniejsza liczba : 514
+Najwieksza liczba: 261668
+Najmniejsza liczba : 1002
+Najwieksza liczba: 777044
